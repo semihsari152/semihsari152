@@ -383,8 +383,9 @@ Bugün hâlâ keşfedilecek yeni teknolojilerin, tamamlanmayı bekleyen projeler
 
 *Yeni maceralar ve iş birlikleri için benimle iletişime geç.*
 
-<a href="linkedin.com/in/semih-sari-0b0406233">
-<img src="https://img.shields.io/badge/LinkedIn-24243e?style=for-the-badge&logo=linkedin&logoColor=D6B46A"/>
+
+<a href="https://www.linkedin.com/in/semih-sari-0b0406233" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-24243e?style=for-the-badge&logo=linkedin&logoColor=D6B46A"/>
 </a>
 <a href="mailto:semihsari152@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-24243e?style=for-the-badge&logo=gmail&logoColor=D6B46A"/>
